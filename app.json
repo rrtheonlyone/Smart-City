@@ -1,0 +1,21 @@
+{
+  "expo": {
+  	"name": "Smart City",
+  	"icon": "./src/assets/images/psd_logo.png",
+    "splash": {
+      "image": "./src/assets/images/PSD_raw.png"
+    },
+  	"version": "1.0.0",
+    "sdkVersion": "27.0.0",
+    "slug": "smart-city",
+    "ios": {
+      "bundleIdentifier": "com.digitallab.smartcity"
+    },
+    "android": {
+      "package": "com.digitallab.smartcity",
+      "config": {
+      	"googleMaps": { "apiKey": "AIzaSyA-YPaxiwk03VMrQcYgD4ly0IfouCApjHw" }   
+   	  }
+    }
+  }
+}
